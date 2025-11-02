@@ -1,2 +1,0 @@
-# prometheusForTekton
-# redacto_chat
