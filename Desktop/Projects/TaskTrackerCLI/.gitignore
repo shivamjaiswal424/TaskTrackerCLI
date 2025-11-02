@@ -1,0 +1,17 @@
+# Maven / Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.log
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# OS junk
+.DS_Store
+
+# Build outputs / temp
+*.swp
+*.swo

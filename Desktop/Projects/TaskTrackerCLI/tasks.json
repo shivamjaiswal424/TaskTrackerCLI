@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "description" : "Buy groceries and cook dinner",
+  "status" : "done",
+  "createdAt" : "2025-11-02T11:04:46.062525Z",
+  "updatedAt" : "2025-11-02T11:08:11.983908Z"
+}, {
+  "id" : 2,
+  "description" : "Buy groceries",
+  "status" : "todo",
+  "createdAt" : "2025-11-02T11:06:59.034671Z",
+  "updatedAt" : "2025-11-02T11:06:59.034671Z"
+} ]
